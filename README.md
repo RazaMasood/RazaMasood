@@ -1,5 +1,7 @@
 # 💫 About Me:
-As a passionate computer science student with a strong foundation in data science, AI, and machine learning, I'm proficient in Python and tools such as Numpy, Pandas, matplotlib, API, scikit-learn, and Tensorflow. Despite my inexperience, I am a responsible and detail-oriented individual who takes pride in my work and is eager to learn new things. I believe my skills can contribute to your team's success, and I'm eager to discuss opportunities to make a difference.
+I am a final-year computer science student with a strong interest in AI, machine learning, and data science. I have a solid foundation in Python programming and libraries such as Numpy, Pandas, Matplotlib, Scikit-Learn, and TensorFlow.
+
+I am eager to apply my skills to real-world problems and create innovative solutions using machine learning algorithms and data analysis techniques.
 
 
 ## 🌐 Socials:
@@ -19,7 +21,4 @@ As a passionate computer science student with a strong foundation in data scienc
 [![](https://visitcount.itsvg.in/api?id=RazaMasood&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MohdMasoodR) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MohdMasoodR)
