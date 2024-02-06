@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a final-year computer science student with a strong interest in AI, machine learning, and data science. I have a solid foundation in Python programming and libraries such as Numpy, Pandas, Matplotlib, Scikit-Learn, and TensorFlow.
+I am a computer science student with a strong interest in AI, machine learning, and data science. I have a solid foundation in Python programming and libraries such as Numpy, Pandas, Matplotlib, Scikit-Learn, and TensorFlow.
 
 I am eager to apply my skills to real-world problems and create innovative solutions using machine learning algorithms and data analysis techniques.
 
