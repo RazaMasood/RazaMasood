@@ -5,7 +5,7 @@ I’m a Computer Vision Engineer with a Bachelor’s degree in Computer Science 
 I have a solid foundation in Python and am proficient with essential libraries and frameworks such as NumPy, Pandas, Matplotlib, OpenCV, and PyTorch. I’m committed to leveraging these tools to develop innovative solutions and contribute to groundbreaking projects in AI and machine learning.
 My passion lies in harnessing technology to solve real-world problems, and I am always eager to expand my knowledge and skills in a dynamic and impactful way.
 
-- 🌍 Based in Ahmedabad, Gujarat
+- 🌍 Currently Based in Ahmedabad, Gujarat
 - ✉️ Contact me at [razamasood954@gmail.com](mailto:razamasood954@gmail.com)
 - 🤝 Open to collaborating on Machine Learning and Deep Learning Projects: Specializing in image recognition, object detection, and segmentation.
 
