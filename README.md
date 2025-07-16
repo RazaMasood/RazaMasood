@@ -60,12 +60,6 @@ I'm a **Computer Vision Engineer** passionate about developing AI solutions. Wit
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RazaMasood&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-  
-  <h3>💭 "Learning and building AI solutions one project at a time" 🚀</h3>
-</div>
-
 <div style="width: 100%;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" style="width: 100%; display: block;"/>
 </div>
