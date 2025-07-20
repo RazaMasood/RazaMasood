@@ -39,11 +39,6 @@ I'm a **Computer Vision Engineer** passionate about developing AI solutions. Wit
 - 👯 Looking to collaborate on **ML/DL projects** and learn from experienced developers
 - 💡 Applying **AI concepts** to solve practical problems
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RazaMasood&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 ## 🤝 Let's Connect
 
